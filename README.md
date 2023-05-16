@@ -1,4 +1,4 @@
-# BHCGNameCoverter
+# BH3CGNameConverter
 PC端崩坏3国服CG转外服工具<br />
 使用说明：<br />
 需求：崩坏3国服客户端（需要进入游戏一次，选择下载完整CG包）<br />
